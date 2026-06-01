@@ -13,4 +13,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
