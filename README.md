@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0014-longest-common-prefix) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Greedy
 |  |
@@ -26,4 +27,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0012-integer-to-roman) |
+| [0014-longest-common-prefix](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
