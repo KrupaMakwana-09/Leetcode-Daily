@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0066-plus-one) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0012-integer-to-roman) |
+| [0066-plus-one](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0066-plus-one) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Hash Table
