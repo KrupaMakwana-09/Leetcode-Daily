@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0070-climbing-stairs) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Hash Table
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0070-climbing-stairs) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Enumeration
@@ -112,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2196-create-binary-tree-from-descriptions](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/2196-create-binary-tree-from-descriptions) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
