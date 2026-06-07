@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0066-plus-one) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2574-left-and-right-sum-differences](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/2574-left-and-right-sum-differences) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Greedy
@@ -97,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0067-add-binary) |
+## Prefix Sum
+|  |
+| ------- |
+| [2574-left-and-right-sum-differences](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
