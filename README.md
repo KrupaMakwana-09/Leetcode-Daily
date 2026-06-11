@@ -51,11 +51,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0012-integer-to-roman) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/2196-create-binary-tree-from-descriptions) |
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0020-valid-parentheses) |
@@ -191,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3691-maximum-total-subarray-value-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3691-maximum-total-subarray-value-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
