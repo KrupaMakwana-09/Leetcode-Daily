@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0070-climbing-stairs) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Hash Table
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0112-path-sum) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Tree
 |  |
 | ------- |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0112-path-sum) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Breadth-First Search
 |  |
 | ------- |
