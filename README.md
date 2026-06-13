@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0020-valid-parentheses) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0021-merge-two-sorted-lists) |
 ## Two Pointers
 |  |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0010-regular-expression-matching) |
 | [0070-climbing-stairs](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0119-pascals-triangle-ii) |
