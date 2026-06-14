@@ -90,12 +90,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0094-binary-tree-inorder-traversal) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Linked List
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0088-merge-sorted-array) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
