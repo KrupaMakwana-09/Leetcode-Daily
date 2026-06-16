@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0088-merge-sorted-array) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0088-merge-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
