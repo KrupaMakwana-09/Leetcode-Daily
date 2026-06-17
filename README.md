@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0067-add-binary) |
 | [3612-process-string-with-special-operations-i](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3838-weighted-word-mapping) |
 ## Trie
 |  |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0067-add-binary) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3612-process-string-with-special-operations-i](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3838-weighted-word-mapping) |
 ## Prefix Sum
 |  |
