@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0094-binary-tree-inorder-traversal) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Linked List
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0088-merge-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0119-pascals-triangle-ii) |
@@ -296,4 +300,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0037-sudoku-solver) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
