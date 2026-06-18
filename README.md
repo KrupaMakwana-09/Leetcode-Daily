@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0045-jump-game-ii) |
 | [0066-plus-one](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0045-jump-game-ii) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0119-pascals-triangle-ii) |
