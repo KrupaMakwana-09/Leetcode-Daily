@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0044-wildcard-matching) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0067-add-binary) |
 | [3612-process-string-with-special-operations-i](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3612-process-string-with-special-operations-i) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0044-wildcard-matching) |
 ## Two Pointers
 |  |
 | ------- |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0044-wildcard-matching) |
 | [0070-climbing-stairs](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0119-pascals-triangle-ii) |
