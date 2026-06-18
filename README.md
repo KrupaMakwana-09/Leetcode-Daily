@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0070-climbing-stairs) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3751-total-waviness-of-numbers-in-range-i) |
