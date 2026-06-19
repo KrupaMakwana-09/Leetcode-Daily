@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0046-permutations) |
 ## Merge Sort
 |  |
 | ------- |
