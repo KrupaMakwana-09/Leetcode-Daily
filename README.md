@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0088-merge-sorted-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0049-group-anagrams) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/2196-create-binary-tree-from-descriptions) |
 ## String
 |  |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0067-add-binary) |
 | [3612-process-string-with-special-operations-i](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3612-process-string-with-special-operations-i) |
