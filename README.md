@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0051-n-queens) |
 ## Merge Sort
 |  |
 | ------- |
