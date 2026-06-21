@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0067-add-binary) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3612-process-string-with-special-operations-i](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3612-process-string-with-special-operations-i) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0059-spiral-matrix-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
