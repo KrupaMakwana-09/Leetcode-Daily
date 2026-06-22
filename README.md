@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0119-pascals-triangle-ii) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0063-unique-paths-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
