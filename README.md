@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0068-text-justification) |
 | [0088-merge-sorted-array](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0118-pascals-triangle) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0068-text-justification) |
 | [1189-maximum-number-of-balloons](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1189-maximum-number-of-balloons) |
 | [3612-process-string-with-special-operations-i](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3614-process-string-with-special-operations-ii) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0068-text-justification) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3612-process-string-with-special-operations-i](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3614-process-string-with-special-operations-ii) |
