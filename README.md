@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0068-text-justification) |
+| [0071-simplify-path](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0071-simplify-path) |
 | [1189-maximum-number-of-balloons](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1189-maximum-number-of-balloons) |
 | [3612-process-string-with-special-operations-i](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3614-process-string-with-special-operations-ii) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0094-binary-tree-inorder-traversal) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Linked List
