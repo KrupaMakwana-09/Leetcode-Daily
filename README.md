@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0072-edit-distance) |
 | [1189-maximum-number-of-balloons](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1189-maximum-number-of-balloons) |
 | [3612-process-string-with-special-operations-i](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3614-process-string-with-special-operations-ii) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0119-pascals-triangle-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
