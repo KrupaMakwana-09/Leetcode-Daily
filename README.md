@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0076-minimum-window-substring) |
 | [1189-maximum-number-of-balloons](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1189-maximum-number-of-balloons) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/2196-create-binary-tree-from-descriptions) |
 ## String
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0076-minimum-window-substring) |
 | [1189-maximum-number-of-balloons](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1189-maximum-number-of-balloons) |
 | [3612-process-string-with-special-operations-i](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3614-process-string-with-special-operations-ii) |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0076-minimum-window-substring) |
 ## Backtracking
 |  |
 | ------- |
