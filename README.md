@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0118-pascals-triangle) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0079-word-search) |
 | [1189-maximum-number-of-balloons](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1189-maximum-number-of-balloons) |
 | [3612-process-string-with-special-operations-i](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3614-process-string-with-special-operations-ii) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0101-symmetric-tree) |
@@ -376,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0079-word-search) |
 ## Merge Sort
 |  |
 | ------- |
@@ -392,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0079-word-search) |
 ## Monotonic Stack
 |  |
 | ------- |
