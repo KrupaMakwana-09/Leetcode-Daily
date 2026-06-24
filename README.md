@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0118-pascals-triangle) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0078-subsets) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Simulation
 |  |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0078-subsets) |
 ## Merge Sort
 |  |
 | ------- |
