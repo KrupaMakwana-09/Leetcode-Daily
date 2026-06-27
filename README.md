@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0087-scramble-string) |
+| [0091-decode-ways](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0091-decode-ways) |
 | [1189-maximum-number-of-balloons](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1189-maximum-number-of-balloons) |
 | [3612-process-string-with-special-operations-i](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3614-process-string-with-special-operations-ii) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0087-scramble-string) |
+| [0091-decode-ways](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0119-pascals-triangle-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
