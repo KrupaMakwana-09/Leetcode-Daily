@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0089-gray-code) |
+| [0096-unique-binary-search-trees](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0096-unique-binary-search-trees) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1840-maximum-building-height) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0119-pascals-triangle-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -386,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0096-unique-binary-search-trees) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Segment Tree
 |  |
