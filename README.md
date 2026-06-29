@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0092-reverse-linked-list-ii) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0112-path-sum) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0112-path-sum) |
@@ -414,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Binary Search Tree
 |  |
@@ -423,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Segment Tree
 |  |
 | ------- |
