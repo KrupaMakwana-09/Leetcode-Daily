@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0130-surrounded-regions) |
 | [1732-find-the-highest-altitude](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1840-maximum-building-height) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0130-surrounded-regions](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0130-surrounded-regions) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Breadth-First Search
@@ -459,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0126-word-ladder-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0127-word-ladder) |
+| [0130-surrounded-regions](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0130-surrounded-regions) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Divide and Conquer
@@ -540,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0085-maximal-rectangle) |
+| [0130-surrounded-regions](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0130-surrounded-regions) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Monotonic Stack
@@ -561,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0130-surrounded-regions) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Graph Theory
 |  |
