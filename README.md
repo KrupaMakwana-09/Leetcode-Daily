@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/2574-left-and-right-sum-differences) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -478,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0023-merge-k-sorted-lists) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Sliding Window
 |  |
@@ -526,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0085-maximal-rectangle) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -545,4 +549,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Graph Theory
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
