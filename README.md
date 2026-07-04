@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0136-single-number) |
 | [1732-find-the-highest-altitude](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1840-maximum-building-height) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0136-single-number) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Simulation
 |  |
