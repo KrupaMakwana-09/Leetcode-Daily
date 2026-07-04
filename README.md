@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0140-word-break-ii) |
 | [1732-find-the-highest-altitude](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1840-maximum-building-height) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0140-word-break-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0140-word-break-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0140-word-break-ii) |
 ## Stack
 |  |
 | ------- |
@@ -338,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0140-word-break-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -446,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0140-word-break-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -552,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0113-path-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0140-word-break-ii) |
 ## Merge Sort
 |  |
 | ------- |
