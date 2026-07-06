@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0148-sort-list) |
 | [1288-remove-covered-intervals](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1288-remove-covered-intervals) |
 | [1833-maximum-ice-cream-bars](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1840-maximum-building-height) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0160-intersection-of-two-linked-lists) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0160-intersection-of-two-linked-lists) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -535,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0148-sort-list) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Binary Search Tree
 |  |
@@ -592,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0148-sort-list) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Matrix
 |  |
