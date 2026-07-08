@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0164-maximum-gap) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1288-remove-covered-intervals](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1301-number-of-paths-with-max-score) |
 | [1732-find-the-highest-altitude](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1732-find-the-highest-altitude) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0165-compare-version-numbers) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
