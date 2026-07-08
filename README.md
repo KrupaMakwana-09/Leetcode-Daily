@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0166-fraction-to-recurring-decimal](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0166-fraction-to-recurring-decimal) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1840-maximum-building-height) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0160-intersection-of-two-linked-lists) |
+| [0166-fraction-to-recurring-decimal](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0166-fraction-to-recurring-decimal) |
 | [1189-maximum-number-of-balloons](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0166-fraction-to-recurring-decimal) |
 | [1189-maximum-number-of-balloons](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
