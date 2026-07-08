@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0162-find-peak-element) |
+| [0164-maximum-gap](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0164-maximum-gap) |
 | [1288-remove-covered-intervals](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1301-number-of-paths-with-max-score) |
 | [1732-find-the-highest-altitude](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1732-find-the-highest-altitude) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0148-sort-list) |
+| [0164-maximum-gap](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0164-maximum-gap) |
 | [1288-remove-covered-intervals](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1288-remove-covered-intervals) |
 | [1833-maximum-ice-cream-bars](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1840-maximum-building-height) |
@@ -688,4 +690,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0149-max-points-on-a-line) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
