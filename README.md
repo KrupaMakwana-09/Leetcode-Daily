@@ -459,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0187-repeated-dna-sequences) |
+| [0190-reverse-bits](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0190-reverse-bits) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Simulation
@@ -611,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0190-reverse-bits) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Binary Search Tree
 |  |
