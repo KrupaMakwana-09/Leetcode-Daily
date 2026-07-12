@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0187-repeated-dna-sequences) |
+| [0257-binary-tree-paths](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0257-binary-tree-paths) |
 | [1189-maximum-number-of-balloons](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -512,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0173-binary-search-tree-iterator) |
+| [0257-binary-tree-paths](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0257-binary-tree-paths) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -545,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0173-binary-search-tree-iterator) |
+| [0257-binary-tree-paths](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0257-binary-tree-paths) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Memoization
 |  |
@@ -575,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0257-binary-tree-paths) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/2685-count-the-number-of-complete-components) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -668,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0140-word-break-ii) |
+| [0257-binary-tree-paths](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0257-binary-tree-paths) |
 ## Merge Sort
 |  |
 | ------- |
