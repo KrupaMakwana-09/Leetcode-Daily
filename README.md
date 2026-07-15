@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0208-implement-trie-prefix-tree) |
 | [1189-maximum-number-of-balloons](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0208-implement-trie-prefix-tree) |
 | [0257-binary-tree-paths](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0257-binary-tree-paths) |
 | [1189-maximum-number-of-balloons](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0140-word-break-ii) |
+| [0208-implement-trie-prefix-tree](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0208-implement-trie-prefix-tree) |
 ## Stack
 |  |
 | ------- |
@@ -783,6 +786,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0173-binary-search-tree-iterator) |
+| [0208-implement-trie-prefix-tree](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0208-implement-trie-prefix-tree) |
 ## Doubly-Linked List
 |  |
 | ------- |
