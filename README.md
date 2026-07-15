@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0204-count-primes) |
+| [0209-minimum-size-subarray-sum](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0209-minimum-size-subarray-sum) |
 | [1288-remove-covered-intervals](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1331-rank-transform-of-an-array) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0209-minimum-size-subarray-sum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -503,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0209-minimum-size-subarray-sum) |
 | [1732-find-the-highest-altitude](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/2574-left-and-right-sum-differences) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -682,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0187-repeated-dna-sequences) |
+| [0209-minimum-size-subarray-sum](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0209-minimum-size-subarray-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Backtracking
 |  |
