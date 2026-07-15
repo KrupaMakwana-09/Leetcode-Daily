@@ -337,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0206-reverse-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0206-reverse-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
