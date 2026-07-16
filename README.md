@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0212-word-search-ii) |
+| [0214-shortest-palindrome](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0214-shortest-palindrome) |
 | [0257-binary-tree-paths](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0257-binary-tree-paths) |
 | [1189-maximum-number-of-balloons](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -485,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0214-shortest-palindrome) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -850,10 +852,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0214-shortest-palindrome) |
 ## Hash Function
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0214-shortest-palindrome) |
 ## Number Theory
 |  |
 | ------- |
