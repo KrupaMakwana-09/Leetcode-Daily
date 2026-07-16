@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0209-minimum-size-subarray-sum) |
+| [0212-word-search-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0212-word-search-ii) |
 | [1288-remove-covered-intervals](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1331-rank-transform-of-an-array) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0257-binary-tree-paths) |
 | [1189-maximum-number-of-balloons](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0212-word-search-ii) |
 ## Stack
 |  |
 | ------- |
@@ -720,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0140-word-break-ii) |
+| [0212-word-search-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0257-binary-tree-paths) |
 ## Merge Sort
 |  |
@@ -744,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0212-word-search-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3286-find-a-safe-walk-through-a-grid) |
