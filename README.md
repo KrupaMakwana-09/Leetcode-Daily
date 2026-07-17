@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0217-contains-duplicate) |
+| [0218-the-skyline-problem](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0218-the-skyline-problem) |
 | [1288-remove-covered-intervals](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1331-rank-transform-of-an-array) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0217-contains-duplicate) |
+| [0218-the-skyline-problem](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0218-the-skyline-problem) |
 | [1288-remove-covered-intervals](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1833-maximum-ice-cream-bars) |
@@ -683,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0218-the-skyline-problem) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Binary Search Tree
 |  |
@@ -697,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0218-the-skyline-problem) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Heap (Priority Queue)
@@ -704,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0218-the-skyline-problem) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3620-network-recovery-pathways) |
@@ -886,4 +891,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0215-kth-largest-element-in-an-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0218-the-skyline-problem) |
+## Sweep Line
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0218-the-skyline-problem) |
+## Ordered Set
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0218-the-skyline-problem) |
 <!---LeetCode Topics End-->
