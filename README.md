@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0218-the-skyline-problem) |
+| [0219-contains-duplicate-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0219-contains-duplicate-ii) |
 | [1288-remove-covered-intervals](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1331-rank-transform-of-an-array) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0219-contains-duplicate-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -721,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0219-contains-duplicate-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Backtracking
 |  |
