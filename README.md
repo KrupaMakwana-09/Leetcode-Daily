@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0218-the-skyline-problem) |
 | [0219-contains-duplicate-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0220-contains-duplicate-iii) |
+| [0221-maximal-square](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0221-maximal-square) |
 | [1288-remove-covered-intervals](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1331-rank-transform-of-an-array) |
@@ -484,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0221-maximal-square) |
 | [1301-number-of-paths-with-max-score](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -780,6 +782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0212-word-search-ii) |
+| [0221-maximal-square](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0221-maximal-square) |
 | [1301-number-of-paths-with-max-score](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3286-find-a-safe-walk-through-a-grid) |
