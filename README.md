@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0223-rectangle-area) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -857,6 +858,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0149-max-points-on-a-line) |
+| [0223-rectangle-area](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0223-rectangle-area) |
 ## Bucket Sort
 |  |
 | ------- |
