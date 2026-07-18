@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0223-rectangle-area) |
+| [0224-basic-calculator](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0224-basic-calculator) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0214-shortest-palindrome) |
+| [0224-basic-calculator](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0224-basic-calculator) |
 | [0257-binary-tree-paths](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0257-binary-tree-paths) |
 | [1189-maximum-number-of-balloons](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0173-binary-search-tree-iterator) |
+| [0224-basic-calculator](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0224-basic-calculator) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Linked List
 |  |
@@ -387,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0224-basic-calculator) |
 ## Two Pointers
 |  |
 | ------- |
