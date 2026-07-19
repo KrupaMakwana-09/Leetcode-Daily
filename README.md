@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0179-largest-number) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1833-maximum-ice-cream-bars](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0224-basic-calculator) |
 | [0257-binary-tree-paths](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0257-binary-tree-paths) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0225-implement-stack-using-queues) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Linked List
 |  |
@@ -802,6 +805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0085-maximal-rectangle) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Counting Sort
 |  |
 | ------- |
