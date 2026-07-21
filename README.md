@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0233-number-of-digit-one) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0233-number-of-digit-one) |
 ## Two Pointers
 |  |
 | ------- |
@@ -508,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0221-maximal-square) |
+| [0233-number-of-digit-one](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0233-number-of-digit-one) |
 | [1301-number-of-paths-with-max-score](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3534-path-existence-queries-in-a-graph-ii) |
