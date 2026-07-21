@@ -360,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0232-implement-queue-using-stacks) |
+| [0234-palindrome-linked-list](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0234-palindrome-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Linked List
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0234-palindrome-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0233-number-of-digit-one) |
+| [0234-palindrome-linked-list](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -439,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0234-palindrome-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/2161-partition-array-according-to-given-pivot) |
