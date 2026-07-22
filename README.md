@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0238-product-of-array-except-self) |
 | [1260-shift-2d-grid](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1301-number-of-paths-with-max-score) |
@@ -577,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0238-product-of-array-except-self) |
 | [1732-find-the-highest-altitude](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/2574-left-and-right-sum-differences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3312-sorted-gcd-pair-queries) |
