@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0233-number-of-digit-one) |
+| [0241-different-ways-to-add-parentheses](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0241-different-ways-to-add-parentheses) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0227-basic-calculator-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0241-different-ways-to-add-parentheses) |
 | [0257-binary-tree-paths](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0257-binary-tree-paths) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1189-maximum-number-of-balloons) |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0233-number-of-digit-one) |
 | [0234-palindrome-linked-list](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0234-palindrome-linked-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0241-different-ways-to-add-parentheses) |
 ## Two Pointers
 |  |
 | ------- |
@@ -525,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0221-maximal-square) |
 | [0233-number-of-digit-one](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0233-number-of-digit-one) |
+| [0241-different-ways-to-add-parentheses](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0241-different-ways-to-add-parentheses) |
 | [1301-number-of-paths-with-max-score](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -675,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0140-word-break-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0241-different-ways-to-add-parentheses) |
 ## Depth-First Search
 |  |
 | ------- |
