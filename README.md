@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0242-valid-anagram) |
 | [1288-remove-covered-intervals](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1833-maximum-ice-cream-bars) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0242-valid-anagram) |
 | [1189-maximum-number-of-balloons](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0241-different-ways-to-add-parentheses) |
+| [0242-valid-anagram](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0257-binary-tree-paths) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1189-maximum-number-of-balloons) |
