@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0239-sliding-window-maximum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0240-search-a-2d-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1301-number-of-paths-with-max-score) |
@@ -473,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0222-count-complete-tree-nodes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0240-search-a-2d-matrix-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -752,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0218-the-skyline-problem) |
+| [0240-search-a-2d-matrix-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0240-search-a-2d-matrix-ii) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Binary Search Tree
 |  |
@@ -846,6 +849,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0221-maximal-square) |
+| [0240-search-a-2d-matrix-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0240-search-a-2d-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/2812-find-the-safest-path-in-a-grid) |
