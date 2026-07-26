@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0274-h-index) |
+| [0275-h-index-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0275-h-index-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1288-remove-covered-intervals) |
@@ -502,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0268-missing-number) |
+| [0275-h-index-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0275-h-index-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3501-maximize-active-section-with-trade-ii) |
