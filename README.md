@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0274-h-index) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1288-remove-covered-intervals) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0274-h-index) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1331-rank-transform-of-an-array) |
@@ -899,6 +901,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0229-majority-element-ii) |
+| [0274-h-index](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0274-h-index) |
 | [1189-maximum-number-of-balloons](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1833-maximum-ice-cream-bars) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3312-sorted-gcd-pair-queries) |
