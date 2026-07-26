@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1301-number-of-paths-with-max-score) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1833-maximum-ice-cream-bars) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0273-integer-to-english-words) |
+| [0628-maximum-product-of-three-numbers](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1979-find-greatest-common-divisor-of-array) |
