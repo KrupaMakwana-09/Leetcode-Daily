@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0273-integer-to-english-words) |
+| [0279-perfect-squares](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0279-perfect-squares) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1840-maximum-building-height) |
@@ -557,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0279-perfect-squares) |
 | [1301-number-of-paths-with-max-score](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -771,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0279-perfect-squares) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/2812-find-the-safest-path-in-a-grid) |
