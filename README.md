@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0273-integer-to-english-words) |
 | [0279-perfect-squares](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0279-perfect-squares) |
+| [0282-expression-add-operators](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0282-expression-add-operators) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1840-maximum-building-height) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0257-binary-tree-paths) |
 | [0273-integer-to-english-words](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0273-integer-to-english-words) |
+| [0282-expression-add-operators](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0282-expression-add-operators) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -868,6 +870,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0257-binary-tree-paths) |
+| [0282-expression-add-operators](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0282-expression-add-operators) |
 ## Merge Sort
 |  |
 | ------- |
