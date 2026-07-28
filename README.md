@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0290-word-pattern) |
 | [1189-maximum-number-of-balloons](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0257-binary-tree-paths) |
 | [0273-integer-to-english-words](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0282-expression-add-operators) |
+| [0290-word-pattern](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0290-word-pattern) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1358-number-of-substrings-containing-all-three-characters) |
