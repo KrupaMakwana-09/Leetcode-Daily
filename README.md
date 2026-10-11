@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2574-left-and-right-sum-differences](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/2574-left-and-right-sum-differences) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -591,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1291-sequential-digits) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3514-number-of-unique-xor-triplets-ii) |
