@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0284-peeking-iterator](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0284-peeking-iterator) |
 | [0287-find-the-duplicate-number](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0289-game-of-life) |
+| [0300-longest-increasing-subsequence](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0300-longest-increasing-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1288-remove-covered-intervals) |
@@ -530,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0300-longest-increasing-subsequence) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -583,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0279-perfect-squares) |
+| [0300-longest-increasing-subsequence](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0300-longest-increasing-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -1102,4 +1105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0295-find-median-from-data-stream) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/KrupaMakwana-09/Leetcode-Daily/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
